@@ -1,0 +1,11 @@
+C:\Users\Erance\Documents\GitHub\MarsRoverChallenge\MarsRoverChallenge\MarsRoverChallenge.Test\bin\Release\MarsRoverChallenge.Test.dll
+C:\Users\Erance\Documents\GitHub\MarsRoverChallenge\MarsRoverChallenge\MarsRoverChallenge.Test\bin\Release\MarsRoverChallenge.Test.pdb
+C:\Users\Erance\Documents\GitHub\MarsRoverChallenge\MarsRoverChallenge\MarsRoverChallenge.Test\bin\Release\MarsRoverChallenge.exe
+C:\Users\Erance\Documents\GitHub\MarsRoverChallenge\MarsRoverChallenge\MarsRoverChallenge.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Erance\Documents\GitHub\MarsRoverChallenge\MarsRoverChallenge\MarsRoverChallenge.Test\bin\Release\NLog.dll
+C:\Users\Erance\Documents\GitHub\MarsRoverChallenge\MarsRoverChallenge\MarsRoverChallenge.Test\bin\Release\MarsRoverChallenge.pdb
+C:\Users\Erance\Documents\GitHub\MarsRoverChallenge\MarsRoverChallenge\MarsRoverChallenge.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Erance\Documents\GitHub\MarsRoverChallenge\MarsRoverChallenge\MarsRoverChallenge.Test\bin\Release\NLog.xml
+C:\Users\Erance\Documents\GitHub\MarsRoverChallenge\MarsRoverChallenge\MarsRoverChallenge.Test\obj\Release\MarsRoverChallenge.Test.csprojResolveAssemblyReference.cache
+C:\Users\Erance\Documents\GitHub\MarsRoverChallenge\MarsRoverChallenge\MarsRoverChallenge.Test\obj\Release\MarsRoverChallenge.Test.dll
+C:\Users\Erance\Documents\GitHub\MarsRoverChallenge\MarsRoverChallenge\MarsRoverChallenge.Test\obj\Release\MarsRoverChallenge.Test.pdb

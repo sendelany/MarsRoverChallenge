@@ -98,6 +98,16 @@ namespace MarsRoverChallenge
             return response;
         }
 
+        public string ExecuteAllCommands()
+        {
+            foreach (var movementCommand in this.MovementCommands)
+            {
+                ExecuteCommand(movementCommand);
+            }
+
+            return this.CurrentPosition;
+        }
+
         public string CurrentPosition
         {
             get
@@ -109,6 +119,6 @@ namespace MarsRoverChallenge
         public int HorizontalPosition { get; private set; }
         public int VerticalPosition { get; private set; }
         public TerrainZone TerrainZone { get; private set; }
-        public char[] MovementCommands { get; internal set; }
+        public char[] MovementCommands { get; set; }
     }
 }

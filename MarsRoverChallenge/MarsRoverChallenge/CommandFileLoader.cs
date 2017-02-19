@@ -67,6 +67,6 @@ namespace MarsRoverChallenge
         public string FullPath { get; private set; }
         public string[] RawCommandLines { get; private set; }
         public TerrainZone TerrainZone { get; private set; }
-        public Rover Rover { get; private set; }
+        public Rover Rover { get; set; }
     }
 }

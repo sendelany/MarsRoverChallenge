@@ -1,0 +1,8 @@
+C:\Users\Erance\Documents\GitHub\MarsRoverChallenge\MarsRoverChallenge\MarsRoverChallenge\bin\Release\MarsRoverChallenge.exe.config
+C:\Users\Erance\Documents\GitHub\MarsRoverChallenge\MarsRoverChallenge\MarsRoverChallenge\bin\Release\MarsRoverChallenge.exe
+C:\Users\Erance\Documents\GitHub\MarsRoverChallenge\MarsRoverChallenge\MarsRoverChallenge\bin\Release\MarsRoverChallenge.pdb
+C:\Users\Erance\Documents\GitHub\MarsRoverChallenge\MarsRoverChallenge\MarsRoverChallenge\bin\Release\NLog.dll
+C:\Users\Erance\Documents\GitHub\MarsRoverChallenge\MarsRoverChallenge\MarsRoverChallenge\bin\Release\NLog.xml
+C:\Users\Erance\Documents\GitHub\MarsRoverChallenge\MarsRoverChallenge\MarsRoverChallenge\obj\Release\MarsRoverChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Erance\Documents\GitHub\MarsRoverChallenge\MarsRoverChallenge\MarsRoverChallenge\obj\Release\MarsRoverChallenge.exe
+C:\Users\Erance\Documents\GitHub\MarsRoverChallenge\MarsRoverChallenge\MarsRoverChallenge\obj\Release\MarsRoverChallenge.pdb
